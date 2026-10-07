@@ -3,7 +3,7 @@
 # 🚀 ONESHOT TERMUX [PRO EDITION] 🚀
 ### *Next-Gen Advanced Wi-Fi WPS Security & Penetration Testing Framework for Android*
 
-[![GitHub release](https://img.shields.io/badge/Release-v1.0.1%20PRO-blue?style=for-the-badge&logo=github)]([https://github.com/ArmanYB/Oneshot_Termux_wifi](https://github.com/ArmanYB/Oneshot_Termux_wifi))
+[![GitHub release](https://img.shields.io/badge/Release-v3.0.0%20PRO-blue?style=for-the-badge&logo=github)](https://github.com/ArmanYB/Oneshot_Termux_wifi/releases)
 [![Platform](https://img.shields.io/badge/Platform-Termux%20%2F%20Android-green?style=for-the-badge&logo=android)](https://termux.dev)
 [![Security](https://img.shields.io/badge/Security-Root%20Required-red?style=for-the-badge&logo=linux)](https://github.com)
 [![Developer](https://img.shields.io/badge/Developer-Arman%20YB-purple?style=for-the-badge)](https://github.com/ArmanYB)
@@ -18,7 +18,7 @@
 
 ## 🌟 Overview / সংক্ষিপ্ত পরিচিতি
 **OneShot Termux (Pro Edition)** is an elite implementation of the renowned [OneShot](https://github.com/drygdryg/OneShot) toolkit, custom-engineered for **Termux** via a `.deb` package. 
-এটি Termux-এর জন্য তৈরি করা একটি এডভান্সড Wi-Fi WPS পিন অ্যাটাক টুল, যার মাধ্যমে সহজে কাজ করা যায়।
+এটি Termux-এর জন্য তৈরি করা একটি এডভান্সড Wi-Fi WPS পিন অ্যাটাক টুল, যার মাধ্যমে খুব সহজেই কাজ করা যায়।
 
 ---
 
@@ -39,14 +39,14 @@
 pkg update -y && pkg upgrade -y
 pkg install wget root-repo openssl python wireless-tools iw wpa-supplicant -y
 
-# Download and install OneShot deb package
-wget https://github.com/ArmanYB/Oneshot_Termux_wifi/releases/download/v1.0.1/oneshot.deb
+# Download and install OneShot deb package (v3.0.0-PRO)
+wget https://github.com/ArmanYB/Oneshot_Termux_wifi/releases/download/v3.0.0-PRO/oneshot.deb
 pkg install ./oneshot.deb
 ```
 
 ### 2️⃣ Execution & Usage Commands (রানিং কমান্ডসমূহ)
 ```text
-OneShotPin Pro 1.0.1 (c) 2026 Arman YB
+OneShotPin Pro 3.0.0-PRO (c) 2026 Arman YB
 oneshot <arguments>
 ```
 
