@@ -1,19 +1,18 @@
-
 <div align="center">
 
 # 🚀 ONESHOT TERMUX [PRO EDITION] 🚀
 ### *Next-Gen Advanced Wi-Fi WPS Security & Penetration Testing Framework for Android*
 
 ### 🌐 **GitHub Repository Link:** 
-👉 **[https://github.com/ArmanYB/Oneshot_Termux_wifi](https://github.com/ArmanYB/Oneshot_Termux_wifi)**
+👉 **[https://github.com/Armanyb1/Oneshot_Termux_wifi](https://github.com/Armanyb1/Oneshot_Termux_wifi)**
 
 <br>
 
-[![GitHub release](https://img.shields.io/badge/Release-v1.1.0-blue?style=for-the-badge&logo=github)](https://github.com/ArmanYB/Oneshot_Termux_wifi/releases)
-[![View Code](https://img.shields.io/badge/GitHub-View_Code-black?style=for-the-badge&logo=github)](https://github.com/ArmanYB/Oneshot_Termux_wifi)
+[![GitHub release](https://img.shields.io/badge/Release-v1.1.0-blue?style=for-the-badge&logo=github)](https://github.com/Armanyb1/Oneshot_Termux_wifi/releases)
+[![View Code](https://img.shields.io/badge/GitHub-View_Code-black?style=for-the-badge&logo=github)](https://github.com/Armanyb1/Oneshot_Termux_wifi)
 [![Platform](https://img.shields.io/badge/Platform-Termux%20%2F%20Android-green?style=for-the-badge&logo=android)](https://termux.dev)
 [![Security](https://img.shields.io/badge/Security-Root%20Required-red?style=for-the-badge&logo=linux)](https://github.com)
-[![Developer](https://img.shields.io/badge/Developer-Arman%20YB-purple?style=for-the-badge)](https://github.com/ArmanYB)
+[![Developer](https://img.shields.io/badge/Developer-Arman%20YB-purple?style=for-the-badge)](https://github.com/Armanyb1)
 
 </div>
 
@@ -33,7 +32,7 @@
 - ⚡ **Pixie Dust Attack:** Offline WPS vulnerability exploitation (অফলাইন এক্সপ্লয়েট).
 - 🌐 **3WiFi Integration:** Built-in offline WPS PIN generator support (বিল্ট-ইন জেনারেটর).
 - 🔓 **Online Brute-Force:** High-speed active online PIN testing (অনলাইন ব্রুটফোর্স).
-- 📶 **Smart Wi-Fi Scanner:** Network scanning and highlighting based on `iw` (স্মارت ওয়াইফাই স্ক্যানার).
+- 📶 **Smart Wi-Fi Scanner:** Network scanning and highlighting based on `iw` (স্মার্ট ওয়াইফাই স্ক্যানার).
 
 ---
 
@@ -46,7 +45,7 @@
     pkg install wget root-repo openssl python wireless-tools iw wpa-supplicant -y
 
     # Download and install OneShot deb package (v1.1.0) directly from your GitHub
-    wget https://github.com/ArmanYB/Oneshot_Termux_wifi/releases/download/v1.1.0/oneshot.deb
+    wget https://github.com/Armanyb1/Oneshot_Termux_wifi/releases/download/v1.1.0/oneshot.deb
     pkg install ./oneshot.deb
 
 ### 2️⃣ Execution & Usage Commands (রানিং কমান্ডসমূহ)
@@ -90,4 +89,4 @@
 
 ## 🏆 Credits & Developer / ডেভেলপার তথ্য
 * **Developer / ডেভেলপার:** **`Arman YB`**
-* **GitHub Profile:** [github.com/ArmanYB](https://github.com/ArmanYB)
+* **GitHub Profile:** [github.com/Armanyb1](https://github.com/Armanyb1)
