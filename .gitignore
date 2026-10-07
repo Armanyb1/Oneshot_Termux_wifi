@@ -1,1 +1,21 @@
+# Python cache and temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual Environments
+env/
+venv/
+.venv/
+
+# Distribution / build files
+build/
+dist/
+*.egg-info/
+
+# Output files & deb package
+/out/
+oneshot.deb
 
