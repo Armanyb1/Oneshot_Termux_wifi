@@ -1,1 +1,9 @@
+Package: oneshot
+Architecture: all
+Maintainer: Arman YB
+Installed-Size: 650
+Version: 1.1.0
+Homepage: https://github.com/ArmanYB/oneshot
+Depends: python3, pixiewps, wpa-supplicant, iw
+Description: Run WPS PIN attacks (Pixie Dust and bruteforce) without monitor mode with wpa_supplicant
 
